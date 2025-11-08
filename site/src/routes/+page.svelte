@@ -100,6 +100,14 @@
 							>
 								About Us
 							</Button>
+							<Button
+								href="https://docs.google.com/document/d/1kKqQNbBg-wBew_B4AUwRX-QwGt-mbpncZq_2HCNb6PM/edit?usp=sharing"
+								size="lg"
+								variant="ghost"
+								class="rounded-xl px-5"
+							>
+								Project Plots and Hypothesis Testing
+							</Button>
 						</div>
 					</div>
 				</div>
@@ -191,6 +199,7 @@
 						/>
 					</div>
 				</div>
+				
 				<p class="text-white align-middle text-center">Image Source: Rappler</p>
 			</div>
 		</section>
