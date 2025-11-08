@@ -92,6 +92,14 @@
 							>
 								Documentation
 							</Button>
+							<Button
+								href="{base}/aboutus"
+								size="lg"
+								variant="ghost"
+								class="rounded-xl px-5"
+							>
+								About Us
+							</Button>
 						</div>
 					</div>
 				</div>

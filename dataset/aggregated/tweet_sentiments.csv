@@ -1,0 +1,68 @@
+tweet_id,mentioned_candidate_AI,associated_word_AI,tone_AI,perceived_judgement_AI,polarity_AI,is_spam
+tweet_id:1967026817623355632,Makabayan,winning,Neutral,InFavor,0.5,False
+tweet_id:1967026817623355632,,winning,Neutral,InFavor,0.5,False
+tweet_id:1934803697722380411,,deletion,Neutral,Unsure,0.0,False
+tweet_id:1923761077374075233,,Robredo,Neutral,Unsure,0.0,False
+tweet_id:1928382617683964151,Kiko Pangilinan,Kiko,Enjoyment,InFavor,0.5,False
+tweet_id:1928382617683964151,Bam Aquino,Bam,Neutral,InFavor,0.5,False
+tweet_id:1928382617683964151,Lakas,DDS,Anger,Opposedto,-0.8,False
+tweet_id:1923294571171025000,,proud,Enjoyment,InFavor,0.8,False
+tweet_id:1931620556627153280,,topnotcher,Neutral,Unsure,0.0,False
+tweet_id:1925532643472638081,DuterTen,slate,Contempt,Opposedto,-0.5,False
+tweet_id:1925532643472638081,,Gen-Z,Neutral,Unsure,0.0,False
+tweet_id:1924374593533595698,,regional,Neutral,Unsure,0.0,False
+tweet_id:1933001323751899314,,transparency,Neutral,InFavor,0.5,False
+tweet_id:1942551280465183013,,,Neutral,Unsure,0.0,False
+tweet_id:1923187050208989436,,,Enjoyment,Unsure,0.8,True
+tweet_id:1949659578054111438,Kiko Pangilinan,hope,Enjoyment,InFavor,0.8,False
+tweet_id:1949659578054111438,Bam Aquino,hope,Enjoyment,InFavor,0.8,False
+tweet_id:1949659578054111438,Liberal,hope,Enjoyment,InFavor,0.8,False
+tweet_id:1923882731869700352,,recount,Neutral,Unsure,0.0,False
+tweet_id:1932669708433830086,Mar Valbuena,candidate,Neutral,InFavor,0.5,False
+tweet_id:1929471977988718802,,impeachment,Neutral,Unsure,0.0,False
+tweet_id:1947248330011984031,Kiko Pangilinan,walang,Sadness,Opposedto,-0.5,False
+tweet_id:1947248330011984031,Bam Aquino,walang,Sadness,Opposedto,-0.5,False
+tweet_id:1947248330011984031,Makabayan,progressive,Neutral,InFavor,0.2,False
+tweet_id:1941004156455866869,,,Neutral,Unsure,0.0,True
+tweet_id:1924300323168076126,,Disqualify,Contempt,Opposedto,-0.8,False
+tweet_id:1930669716969758769,,,Neutral,Unsure,0.0,True
+tweet_id:1940713236023886204,,transparency,Neutral,Unsure,0.0,True
+tweet_id:1923716956877898060,,Halalan2025,Neutral,Unsure,0.5,False
+tweet_id:1940774660435804204,,elections,Neutral,Unsure,0.0,False
+tweet_id:1925127121409876278,,mainit,Anger,Unsure,-0.5,False
+tweet_id:1946053603246182628,,Halalan,Neutral,Unsure,0.0,False
+tweet_id:1944639308536938536,,,Neutral,Unsure,0.0,True
+tweet_id:1943203139278246294,,afraid,Neutral,InFavor,0.5,False
+tweet_id:1955202296427786605,,vote-buying,Contempt,Opposedto,-0.5,False
+tweet_id:1934886544114168253,,,Neutral,Unsure,0.0,True
+tweet_id:1923662232405278919,Bam Aquino,,Neutral,InFavor,0.5,False
+tweet_id:1926907494086979602,,eleksyon,Neutral,Unsure,0.0,False
+tweet_id:1923875867077509411,Kiko Pangilinan,graduate,Neutral,InFavor,0.5,False
+tweet_id:1923630807153074444,,,Neutral,Unsure,0.0,True
+tweet_id:1941134530611753433,,,Neutral,Unsure,0.0,True
+tweet_id:1926888188909412476,,,Neutral,Unsure,0.0,False
+tweet_id:1923286646633472341,,pasasalamat,Enjoyment,InFavor,0.8,False
+tweet_id:1936998096405430626,PDP,petition,Neutral,InFavor,0.2,False
+tweet_id:1910902241202184588,KABAYAN,Vote,Neutral,InFavor,0.5,False
+tweet_id:1919334684942639363,Kiko Pangilinan,WIN,Enjoyment,InFavor,0.8,False
+tweet_id:1839193747877478699,P3PWD,Senator,Neutral,InFavor,0.5,False
+tweet_id:1919957910093762935,Kiko Pangilinan,ipanalo,Enjoyment,InFavor,0.8,False
+tweet_id:1919957910093762935,Bam Aquino,ipanalo,Enjoyment,InFavor,0.8,False
+tweet_id:1840608670842794190,,clean,Neutral,InFavor,0.5,False
+tweet_id:1910566015370748369,,midterm,Neutral,Unsure,0.0,False
+tweet_id:1894001833158545408,Akbayan,Youth,Neutral,InFavor,0.5,False
+tweet_id:1909886904868418044,Kiko Pangilinan,SENADOR,Neutral,InFavor,0.8,False
+tweet_id:1909886904868418044,Bam Aquino,SENADOR,Neutral,InFavor,0.8,False
+tweet_id:1909886904868418044,Heidi Mendoza,SENADOR,Neutral,InFavor,0.8,False
+tweet_id:1919290261735145899,,elections,Neutral,Unsure,0.0,False
+tweet_id:1910503942758511101,,media,Neutral,Unsure,0.0,False
+tweet_id:1919334041696034907,Bam Aquino,WIN,Enjoyment,InFavor,0.8,False
+tweet_id:1919335872706834845,Heidi Mendoza,WIN,Enjoyment,InFavor,0.9,False
+tweet_id:1916820865934598241,,,Neutral,Unsure,0.0,True
+tweet_id:1910504237974642971,,media,Neutral,Unsure,0.0,True
+tweet_id:1915283709697368292,Jimmy Bondoc,Duterte,Neutral,InFavor,0.8,False
+tweet_id:1915283709697368292,Bong Go,Duterte,Neutral,InFavor,0.8,False
+tweet_id:1915283709697368292,Ronald dela Rosa,Duterte,Neutral,InFavor,0.8,False
+tweet_id:1906248143953645676,,elections,Neutral,Unsure,0.0,False
+tweet_id:1899725104390484382,,priority,Neutral,Unsure,0.0,False
+tweet_id:1920373371155501274,,Halalan2025,Neutral,Unsure,0.0,False
