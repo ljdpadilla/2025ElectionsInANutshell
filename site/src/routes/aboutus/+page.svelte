@@ -3,6 +3,7 @@
     import Button from '$lib/components/ui/button/button.svelte';
 	import Particles from '$lib/components/ui/Particles.svelte';
     import { base } from '$app/paths';
+    import WobbleCard from '$lib/components/ui/WobbleCard.svelte';
     
     let { data }: PageProps = $props();
 </script>
@@ -17,7 +18,7 @@
     border-radius: 15px;
     padding: 20px;
     margin: 20px auto;           
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   }
 
   .about-text {
@@ -63,24 +64,24 @@
 <div class="about-box">
   <img src="/lance.jpg" alt="Lance Joseph D. Padilla" class="profile-pic" />
   <div class="about-text">
-    <h2>Lance Joseph D. Padilla</h2>
-    <p>Team Developer</p>
+    <h2 class = "text-base font-semibold tracking-[-0.015em] text-balance text-white md:max-w-lg md:text-xl lg:text-3xl">Lance Joseph D. Padilla</h2>
+    <p class = "text-base/6 text-neutral-200">Team Developer</p>
   </div>
 </div>
 
 <div class="about-box">
   <img src="/stephen.jpg" alt="Stephen James S. Gonda" class="profile-pic" />
   <div class="about-text">
-    <h2>Stephen James S. Gonda</h2>
-    <p>Team Developer</p>
+    <h2 class = "text-base font-semibold tracking-[-0.015em] text-balance text-white md:max-w-lg md:text-xl lg:text-3xl">Stephen James S. Gonda</h2>
+    <p class = "text-base/6 text-neutral-200">Team Developer</p>
   </div>
 </div>
 
 <div class="about-box">
   <img src="/geraldine.jpg" alt="Geraldine Abigail A. Badiola" class="profile-pic" />
   <div class="about-text">
-    <h2>Geraldine Abigail A. Badiola</h2>
-    <p>Team Developer</p>
+    <h2 class = "text-base font-semibold tracking-[-0.015em] text-balance text-white md:max-w-lg md:text-xl lg:text-3xl">Geraldine Abigail A. Badiola</h2>
+    <p class = "text-base/6 text-neutral-200">Team Developer</p>
   </div>
 </div>
 
